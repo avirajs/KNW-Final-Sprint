@@ -1,25 +1,11 @@
 # KNW Robot Design Challenge: The Search for Life on Zoltan
 
-Ryan Reynolds, Carter Koehler, Patrick Yienger, Avi Sinha, Jamie Paterson, Matthew Lee
-
-## Introductions
-
-**Our Team:** Team of SMU engineering students that hail from different backgrounds.
-
-**The Problem** : The potential for the discovery of extraterrestrial life in our solar system.
-
-## Our Task
-
 **Autonomous Robot Rover**
 
 All of the rover functions will fall under the categories of software and hardware.
 
 - Navigation
 - Sensors
-
-**Bridge**
-
-- Support
 
 ## Software: Object Oriented Design
 
