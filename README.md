@@ -8,30 +8,6 @@ Ryan Reynolds, Carter Koehler, Patrick Yienger, Avi Sinha, Jamie Paterson, Matth
 
 **The Problem** : The potential for the discovery of extraterrestrial life in our solar system.
 
-**Short Term Impacts of Potential Discovery**
-
-●  Call into question existing knowledge of our solar system.
-
-●  Cause existing scientific theories to be amended.
-
-●  Lead to more questions being posed to NASA.
-
-**Long Term Impacts of Potential Discovery**
-
-●  Lead to an increase in interest of space travel.
-
-●  Lead to the development of a Universal Biology.
-
-●  Lead to a massive increase of funding for NASA .
-
-**Potential Impacts of Failure**
-
-●  May lead to a decrease in the interest of space travel.
-
-●  May lead to no major developments in accepted science.
-
-●  May lead to a decrease in funding for NASA.
-
 ## Our Task
 
 **Autonomous Robot Rover**
